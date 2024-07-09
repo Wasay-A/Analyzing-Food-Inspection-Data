@@ -5,7 +5,7 @@ This project applies data science principles with food inspection data from the 
 
 The project involved numerous group meetings and multiple parts. The parts to the project were: proposal, pitch, progress report, final presentation, and final report.
 
-Files
+Files "Food Inspection Data Presentations" includes the proposal and final presentation slides. Additionally, The final project report and website files are included.
 <b>Overview</b><br>
 Sensible is a project worked on by Wasay Ahmed, Miguel Rodriguez, Dan Quirke, and Sarthak Patipati during Fall 2023 at University of Illinois at Chicago for the course CS 422 User Interface Design and Programming taught by Professor Andruid Kerne.
 
