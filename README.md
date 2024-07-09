@@ -7,7 +7,9 @@ The project involved numerous group meetings and multiple parts. The parts to th
 
 Files "Food Inspection Data Presentations" includes the proposal and final presentation slides. Additionally, The final project report and website files are included.
 
-<b>Technologies Used</b>
+<b>Technologies Used:</b>
+- HTML and CSS for website
+- Jupyter Notebook and Python for various visuals 
 
 <b>About the website:</b><br><br>
 The website has three main parts: "Dashboard", "Charts", and "Tables"
