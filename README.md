@@ -6,7 +6,9 @@ This project applies data science principles with food inspection data from the 
 The project involved numerous group meetings and multiple parts. The parts to the project were: proposal, pitch, progress report, final presentation, and final report.
 
 Files "Food Inspection Data Presentations" includes the proposal and final presentation slides. Additionally, The final project report and website files are included.
-  
+
+<b>Technologies Used</b>
+
 <b>About the website:</b><br><br>
 The website has three main parts: "Dashboard", "Charts", and "Tables"
 - The "Dashboard" section has various information regarding the data, graphs, and allows the user to view the dataset.
